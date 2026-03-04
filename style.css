@@ -1,0 +1,21 @@
+
+.logo-nav{
+    display : flex;
+}
+
+ .logo-img{
+    width : 100px;
+    height : 100px;
+ }
+ h1{
+    font-family: fantasy;
+    font-size: 60px;
+
+ }
+ .p{
+    font-weight: 400;
+    letter-spacing:3px ;
+    word-spacing: 3px;
+    line-height: 50px;
+    text-align: center;
+ }
