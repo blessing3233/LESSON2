@@ -12,10 +12,27 @@
     font-size: 60px;
 
  }
- .p{
+ .paragraph{ 
     font-weight: 400;
-    letter-spacing:3px ;
+    font-size: 30px;
+    text-shadow: 3px 3px 5pxb  rgb(108, 63, 192);
+    /* letter-spacing:3px ; */
     word-spacing: 3px;
     line-height: 50px;
     text-align: center;
+    color:white;
+    background-color: rgb(1, 14, 1);
+    
+
  }
+    .paragraph2{
+        opacity: 0.5;
+        
+    }
+.hero-div{
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.Wlh7V7OhMKngqczR7GSJVAHaEO?pid=Api&h=220&P=0);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    
+}
